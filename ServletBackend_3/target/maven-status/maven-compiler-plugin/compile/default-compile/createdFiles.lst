@@ -1,0 +1,5 @@
+ru/icl/test/db/Database.class
+ru/icl/test/filters/myFilter.class
+ru/icl/test/servlets/WriteMessage.class
+ru/icl/test/db/JDBC.class
+ru/icl/test/auth/username.class

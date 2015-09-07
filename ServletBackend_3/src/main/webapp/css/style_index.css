@@ -1,0 +1,59 @@
+body {
+    background: url(../images/pattern-2.png);  /*Цвет фона и путь к файлу */    
+    /*background-size: 70% auto;*/
+    /*background-repeat: no-repeat; */
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;    
+    margin:70px;
+}
+.main {
+    background-color: #FFF;
+    width: 700px;
+    height:550px;
+    margin:0 auto;
+    padding:15px;
+    opacity: 0.7; /*Значение прозрачности */
+    filter: alpha(Opacity=70); /*Прозрачность в IE */
+    border: 1px solid #eaeaea;
+}
+.title {
+    color: #000;
+    text-align:center;
+    font-size:18px;
+    font-weight:bold;
+
+}
+
+.text{
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.login_form{
+    padding-left:50px;
+    text-align: center;
+    padding: 20px;
+}
+
+.login_div{
+    width:300px;
+    border: 1px solid #eaeaea;
+    margin: 0 auto;
+    padding:10px;
+
+}
+
+.footer{
+    color: #cccccc;
+    height: 50px;
+    text-align: center;
+    margin:60px;
+    clear: both;
+}
+
+.content{
+    height: 300px;
+
+}
